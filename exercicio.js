@@ -20,7 +20,7 @@ function checkOptionsUsuario(){
 
 function checkSenha(){
 	interfaceDaEntradaUsuario.question('Informa senha:', function(answerUsuario){
-		if(answerUsuario ==senha_correta){
+		if(answerUsuario == senha_correta){
 			console.log('Acesso Permitido');
 			interfaceDaEntradaUsuario.close();
 			clearInterval(timer);
