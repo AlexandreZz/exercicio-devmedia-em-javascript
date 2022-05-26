@@ -1,4 +1,6 @@
-#EXERCICIO
+<h1>EXERCICIO</h1>
+
+Exercicio é para funcionar apenas no terminal  usando o nodejs.
 
 Faça um algoritmo para ler um número que é um código de usuário.
 
